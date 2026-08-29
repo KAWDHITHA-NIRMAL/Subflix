@@ -32,7 +32,7 @@ Get SubFlix directly for your preferred browser:
 | Browser | Supported Version | Download & Install Links |
 | :---: | :--- | :--- |
 | <img src="https://cdn.jsdelivr.net/npm/@browser-logos/edge/edge.png" width="28" height="28" valign="middle" alt="Microsoft Edge"> **Microsoft Edge** | v88+ | [![Get on Edge Store](https://img.shields.io/badge/Microsoft%20Edge-Get%20it%20on%20Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/subflix/ljkaiecamafkhpbajhhkgmdbebmmahlp) |
-| <img src="https://cdn.jsdelivr.net/npm/@browser-logos/chrome/chrome.png" width="28" height="28" valign="middle" alt="Google Chrome"> **Google Chrome** | v88+ | [![Download ZIP](https://img.shields.io/badge/Google%20Chrome-Download%20ZIP-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](SubFlix.zip) |
+| <img src="https://cdn.jsdelivr.net/npm/@browser-logos/chrome/chrome.png" width="28" height="28" valign="middle" alt="Google Chrome"> **Google Chrome** | v88+ | [![Download ZIP](https://img.shields.io/badge/Google%20Chrome-Download%20ZIP-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/KAWDHITHA-NIRMAL/Subflix/releases/tag/subFlix) |
 | <img src="https://cdn.jsdelivr.net/npm/@browser-logos/brave/brave.png" width="20" height="20" alt="Brave">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/@browser-logos/opera/opera.png" width="20" height="20" alt="Opera">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/@browser-logos/vivaldi/vivaldi.png" width="20" height="20" alt="Vivaldi"> **Brave / Opera / Vivaldi** | Chromium-based | Manual installation using the Chrome offline ZIP package |
 
 ---
